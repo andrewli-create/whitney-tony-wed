@@ -1,25 +1,7 @@
 {
-  "commit": "4b8ca15309d4a1e235ba3f30a95acb6fe267baa6",
-  "generated": "2026-07-24T12:00:00.000Z",
+  "commit": "0ec9867209ebd736edd2c631b6d4ae2eba1ba786",
+  "generated": "2026-10-03T18:59:16.025Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256e",
-        "hash": "4228030232",
-        "path": "/outstatic/content/pages/home.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
     {
       "__outstatic": {
         "commit": "bf4993b965319da4cb9de4a3810fb4af12bdebd6",
@@ -37,17 +19,26 @@
       "featured": false,
       "publishedAt": "2026-03-12T10:00:00.000Z",
       "seo": {
-        "title": "How to create a Next.js blog with Outstatic",
-        "description": "Add a visual Markdown editor to Next.js while keeping every post in your GitHub repository."
+        "description": "Add a visual Markdown editor to Next.js while keeping every post in your GitHub repository.",
+        "title": "How to create a Next.js blog with Outstatic"
       },
       "slug": "how-to-create-an-outstatic-blog",
       "status": "published",
-      "title": "How to create a Next.js blog with Outstatic",
       "tags": [
-        { "label": "NextJs", "value": "nextJs" },
-        { "label": "GitHub", "value": "gitHub" },
-        { "label": "Outstatic", "value": "outstatic" }
-      ]
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        },
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "How to create a Next.js blog with Outstatic"
     },
     {
       "__outstatic": {
@@ -66,16 +57,22 @@
       "featured": false,
       "publishedAt": "2026-04-09T14:30:00.000Z",
       "seo": {
-        "title": "Choose a CMS without giving up your content",
-        "description": "See how Outstatic combines visual editing with portable Markdown files and GitHub workflows."
+        "description": "See how Outstatic combines visual editing with portable Markdown files and GitHub workflows.",
+        "title": "Choose a CMS without giving up your content"
       },
       "slug": "choose-a-cms-without-giving-up-your-content",
       "status": "published",
-      "title": "Choose a CMS without giving up your content",
       "tags": [
-        { "label": "GitHub", "value": "gitHub" },
-        { "label": "Outstatic", "value": "outstatic" }
-      ]
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "Choose a CMS without giving up your content"
     },
     {
       "__outstatic": {
@@ -94,16 +91,22 @@
       "featured": false,
       "publishedAt": "2026-02-18T09:15:00.000Z",
       "seo": {
-        "title": "A calmer editorial workflow with Outstatic",
-        "description": "Organize content, guide editors with custom fields, and publish Markdown through a familiar Git workflow."
+        "description": "Organize content, guide editors with custom fields, and publish Markdown through a familiar Git workflow.",
+        "title": "A calmer editorial workflow with Outstatic"
       },
       "slug": "a-calmer-editorial-workflow-with-outstatic",
       "status": "published",
-      "title": "A calmer editorial workflow with Outstatic",
       "tags": [
-        { "label": "GitHub", "value": "gitHub" },
-        { "label": "Outstatic", "value": "outstatic" }
-      ]
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "A calmer editorial workflow with Outstatic"
     },
     {
       "__outstatic": {
@@ -122,16 +125,22 @@
       "featured": false,
       "publishedAt": "2026-05-11T12:00:00.000Z",
       "seo": {
-        "title": "Using MDX with Outstatic",
-        "description": "Add interactive React components and reusable blocks to Git-backed Outstatic documents."
+        "description": "Add interactive React components and reusable blocks to Git-backed Outstatic documents.",
+        "title": "Using MDX with Outstatic"
       },
       "slug": "using-mdx",
       "status": "published",
-      "title": "Using MDX with Outstatic",
       "tags": [
-        { "label": "Outstatic", "value": "outstatic" },
-        { "label": "NextJs", "value": "nextJs" }
-      ]
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        },
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        }
+      ],
+      "title": "Using MDX with Outstatic"
     },
     {
       "__outstatic": {
@@ -150,16 +159,22 @@
       "featured": true,
       "publishedAt": "2026-07-24T12:00:00.000Z",
       "seo": {
-        "title": "Explore Outstatic: a hands-on product tour",
-        "description": "Try Outstatic’s visual editor, custom fields, media, and reusable MDX blocks in a safe demo project."
+        "description": "Try Outstatic’s visual editor, custom fields, media, and reusable MDX blocks in a safe demo project.",
+        "title": "Explore Outstatic: a hands-on product tour"
       },
       "slug": "explore-outstatic",
       "status": "published",
-      "title": "Explore Outstatic",
       "tags": [
-        { "label": "Outstatic", "value": "outstatic" },
-        { "label": "GitHub", "value": "gitHub" }
-      ]
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        },
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        }
+      ],
+      "title": "Explore Outstatic"
     },
     {
       "__outstatic": {
@@ -214,6 +229,31 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Flycream Travel"
+    },
+    {
+      "__outstatic": {
+        "commit": "0ec9867209ebd736edd2c631b6d4ae2eba1ba786",
+        "hash": "3032679941",
+        "path": "outstatic/content/pages/home.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "images": [
+        {
+          "description": "",
+          "image": "/images/bearbnb.png",
+          "title": ""
+        }
+      ],
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
