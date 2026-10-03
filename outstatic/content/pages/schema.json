@@ -31,8 +31,8 @@
           "fieldType": "String",
           "dataType": "string"
         },
-        "order": {
-          "title": "Order",
+        "nhjkl": {
+          "title": "NHJKL",
           "description": "",
           "required": false,
           "fieldType": "Number",
