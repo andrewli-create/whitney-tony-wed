@@ -1,6 +1,6 @@
 {
-  "commit": "0ec9867209ebd736edd2c631b6d4ae2eba1ba786",
-  "generated": "2026-10-03T18:59:16.025Z",
+  "commit": "d79b58a5a9b0f8c0e6a264016124eceb44d96952",
+  "generated": "2026-10-03T19:01:43.984Z",
   "metadata": [
     {
       "__outstatic": {
@@ -232,8 +232,8 @@
     },
     {
       "__outstatic": {
-        "commit": "0ec9867209ebd736edd2c631b6d4ae2eba1ba786",
-        "hash": "3032679941",
+        "commit": "d79b58a5a9b0f8c0e6a264016124eceb44d96952",
+        "hash": "603585456",
         "path": "outstatic/content/pages/home.mdx"
       },
       "author": {
@@ -247,6 +247,7 @@
         {
           "description": "",
           "image": "/images/bearbnb.png",
+          "nhjkl": 2122,
           "title": ""
         }
       ],
