@@ -1,0 +1,44 @@
+{
+  "title": "pages",
+  "type": "object",
+  "properties": {
+    "images": {
+      "title": "Images",
+      "description": "Images",
+      "required": false,
+      "fieldType": "Array",
+      "dataType": "array",
+      "itemType": "Object",
+      "fields": {
+        "image": {
+          "title": "Image",
+          "description": "",
+          "required": false,
+          "fieldType": "Image",
+          "dataType": "image"
+        },
+        "title": {
+          "title": "Title",
+          "description": "",
+          "required": false,
+          "fieldType": "String",
+          "dataType": "string"
+        },
+        "description": {
+          "title": "Description",
+          "description": "",
+          "required": false,
+          "fieldType": "String",
+          "dataType": "string"
+        },
+        "order": {
+          "title": "Order",
+          "description": "",
+          "required": false,
+          "fieldType": "Number",
+          "dataType": "number"
+        }
+      }
+    }
+  }
+}
